@@ -13,4 +13,4 @@ We fit several different models but found that our best results came from an xgb
 
 `presentation.pdf` : a copy of the presentation that we gave in class
 
-Thanks to Prof. [Brian Speiring](https://github.com/brianspiering) for his guidance and support on this school project.
+Thanks to Prof. [Brian Spiering](https://github.com/brianspiering) for his guidance and support on this school project.
