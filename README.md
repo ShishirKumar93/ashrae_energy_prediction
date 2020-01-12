@@ -12,3 +12,5 @@ We fit several different models but found that our best results came from an xgb
 `data1.csv`, `data2.csv`, `data3.csv` : daily aggregated data files
 
 `presentation.pdf` : a copy of the presentation that we gave in class
+
+Thanks to Prof. [Brian Speiring](https://github.com/brianspiering) for his guidance and support on this school project.
