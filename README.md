@@ -1,11 +1,9 @@
 # Kaggle Competition
-ASHRAE - Great Energy Predictor III
+[ASHRAE - Great Energy Predictor III](https://www.kaggle.com/c/ashrae-energy-prediction/data)
 
-In this project we aim to predict the mean hourly energy consumption of buildings with various energy meter types. Currently, buildings are charged for energy consumption using a "pay for performance" approach where they compare energy usage of building retrofitted with energy efficient technology vs. how much energy it would’ve used without this technology. A model is needed to predict the latter value, and that is what we aim to do in this project. Note that for the purpose of this project we aggregate the data to a mean hourly energy consumption per day as opposed to using the raw hourly values.
+In this project we aim to predict the mean hourly energy consumption of buildings with various energy meter types. Currently, buildings are charged for energy consumption using a "pay for performance" approach where they compare energy usage of building retrofitted with energy efficient technology vs. how much energy it would’ve used without this technology. A model is needed to predict the latter value, and that is what we aim to do in this project. Note that for practical purposes, we predict only the mean hourly energy consumption per day as opposed to hourly meter readings.
 
-Data on energy usage is from Kaggle and can be found at this link - https://www.kaggle.com/c/ashrae-energy-prediction/data
-
-We fit several different models but found that our best results came from an XgBoost model. Using it, we were able to predict the mean hourly energy consumption of a building with a Median Absolute Error of 52 kwh.
+We used a host of algorithms to train our models and found that XgBoost gave the best results. Using it, we were able to predict the mean hourly energy consumption of a building with a Median Absolute Error of 52 kwh.
 
 `analysis.ipynb` : combined analysis and modelling codes
 
