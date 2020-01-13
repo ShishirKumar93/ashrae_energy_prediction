@@ -11,4 +11,4 @@ We used a host of algorithms to train our models and found that XgBoost gave the
 
 `presentation.pdf` : a copy of the presentation that we gave in class
 
-Thanks to Prof. [Brian Spiering](https://github.com/brianspiering) for his guidance and support on this school project. Also, thanks to my teammates [Ash Jha](https://github.com/ash-jha) and [Samarth Inani](https://github.com/samarthinani94) for their contribution in this project.
+Thanks to Prof. [Brian Spiering](https://github.com/brianspiering) for his guidance and support on this school project. Also, thanks to my teammates [Ash Jha](https://github.com/ash-jha) and [Samarth Inani](https://github.com/samarthinani94) for their contribution.
